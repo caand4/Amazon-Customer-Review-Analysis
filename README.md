@@ -17,11 +17,35 @@ Below is a brief  view of the dataset.
 ![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/65334b8c-7a61-4a7e-94cb-4c470ff5103e)
 
 ## POS Tagging
-![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/67eb00c4-4d91-45f6-9bba-01bb3af87546)
-![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/659ab081-313c-4d9a-ad9a-d4949eb69a84)
-![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/e02a4610-2357-4e9d-b59e-b6c23b5f2709)
-![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/9e4b5f32-3248-4498-a533-f1cdea21aa39)
-![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/578670f4-8301-4a1f-8a3b-5e741955a9bf)
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/a060fb6e-0549-43a6-8476-663afd2f49d9)
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/d680aa50-8360-438b-b8ea-573d6dda0cee)
+
+## Topic Modeling
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/fb7f6e02-89a9-4c67-8843-552e0f2eacb4)
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/f2076731-b1c0-4450-82e4-a08d2a99b07d)
+
+## Intertopic Distance Map
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/56b8f7cc-41bb-4029-8257-eb4fea230af5)
+
+## Optimal model with coherence score
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/fb047f05-a726-4812-b4ca-6ebcb787bb93)
+
+## Topic Interpretation
+
+![image](https://github.com/caand4/Amazon-Customer-Review-Analysis/assets/80293132/dd230d90-67e8-41ff-a7a5-916cdb6d5c24)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
